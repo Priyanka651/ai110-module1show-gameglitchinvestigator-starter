@@ -1,0 +1,2 @@
+Find the State Bug. Why does the secret number change every time you click "Submit"? Ask ChatGPT: "How do I keep a variable from resetting in Streamlit when I click a button?"
+https://docs.streamlit.io/develop/api-reference/caching-and-state/st.session_state
